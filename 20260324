@@ -1,0 +1,4 @@
+Security Operations Center (SOC) is a team of IT security professionals tasked with monitoring, preventing , detecting , investigating, and responding to threats within a company’s network and systems.
+
+
+Today, I learned about the nature of defensive operations—specifically, how they involve detecting anomalies, identifying their source, and immediately blocking the attack (for instance, by blocking the attacker's IP address). However, this raises a question for me: What happens if the attacker immediately switches their IP address? Or what if they possess a vast pool of IP addresses at their disposal? How should such a situation be handled? I look forward to tomorrow's lessons.
